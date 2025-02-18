@@ -1,12 +1,12 @@
 # Entrega_guia2_grupo9 (Análisis de Deserción de Clientes de Telecomunicaciones)
 
 Introducción
-Este proyecto ha sido desarrollado por los estudiantes David Gutiérrez, Cristian Mesa, Diana Peña y Jose Sanchez de la Universidad EAN, con el objetivo de analizar la deserción de clientes en el sector de telecomunicaciones. A través del manejo de datos con Pandas, se busca identificar los factores clave que influyen en la pérdida de clientes y proponer estrategias para reducirla.
+Este proyecto ha sido desarrollado por los estudiantes David Gutiérrez, Cristihan Mesa, Diana Peña y Jose Sanchez de la Universidad EAN, con el objetivo de analizar la deserción de clientes en el sector de telecomunicaciones. A través del manejo de datos con Pandas, se busca identificar los factores clave que influyen en la pérdida de clientes y proponer estrategias para reducirla.
 
-Correos de contacto:
+📧 Correos de contacto:
 
 David Gutiérrez – cgutier34574@universidadean.edu.co
-Cristian Mesa
+Cristihan Mesa – cmesasa84216@universidadean.edu.co
 Diana Peña – dpenasa19075@universidadean.edu.co
 Jose Sanchez – jsanche61530@universidadean.edu.co
 Objetivo
@@ -40,7 +40,6 @@ Herramientas utilizadas
 Python
 Pandas
 Matplotlib
-Seaborn
 Google Colab
 Instrucciones de Uso
 Abre el archivo [nombre_del_notebook].ipynb en Google Colab.
@@ -53,7 +52,7 @@ Autores
 Este trabajo ha sido desarrollado por:
 
 David Gutiérrez
-Cristian Mesa
+Cristihan Mesa
 Diana Peña
 Jose Sanchez
 📅 Fecha de creación del proyecto: 18 de febrero de 2025
